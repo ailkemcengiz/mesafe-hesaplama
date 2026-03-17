@@ -1,1 +1,1 @@
-Koordinat düzleminde mesafe ölçmeye yaranan bir kod
+Koordinat düzleminde mesafe ölçmeye yarayan bir kod
